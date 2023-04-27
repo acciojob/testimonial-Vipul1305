@@ -11,5 +11,6 @@
 	margin:15px;
 }
 .name{
-	text-align:right
+	text-align:right;
+	font-style:italic;
 }
